@@ -1,0 +1,6 @@
+S:\БИТ20-11\Программирование\Федченко\Курсовая\WindowsFormsApp4удалить\obj\Debug\WindowsFormsApp4удалить.csprojAssemblyReference.cache
+S:\БИТ20-11\Программирование\Федченко\Курсовая\WindowsFormsApp4удалить\obj\Debug\WindowsFormsApp4удалить.MainForm.resources
+S:\БИТ20-11\Программирование\Федченко\Курсовая\WindowsFormsApp4удалить\obj\Debug\WindowsFormsApp4удалить.Form2.resources
+S:\БИТ20-11\Программирование\Федченко\Курсовая\WindowsFormsApp4удалить\obj\Debug\WindowsFormsApp4удалить.Properties.Resources.resources
+S:\БИТ20-11\Программирование\Федченко\Курсовая\WindowsFormsApp4удалить\obj\Debug\WindowsFormsApp4удалить.csproj.GenerateResource.cache
+S:\БИТ20-11\Программирование\Федченко\Курсовая\WindowsFormsApp4удалить\obj\Debug\WindowsFormsApp4удалить.csproj.CoreCompileInputs.cache
