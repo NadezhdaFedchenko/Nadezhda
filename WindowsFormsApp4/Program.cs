@@ -14,6 +14,7 @@ namespace WindowsFormsApp4удалить
         [STAThread]
         static void Main()
         {
+            //коментарий 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
